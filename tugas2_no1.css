@@ -1,0 +1,19 @@
+.header .gambar{
+    width:70px;
+    float: left;
+    position: relative;
+    bottom: 5px;
+
+}
+
+.header p {
+    font-size: 50px;
+    color: blue;
+    margin: 20px auto 30px;
+}
+
+.article{
+    width: 800px;
+    text-align: justify;
+}
+
