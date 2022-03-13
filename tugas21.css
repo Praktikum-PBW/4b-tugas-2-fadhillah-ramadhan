@@ -1,0 +1,46 @@
+
+
+.baris1 img{
+    width: 80px;
+    float: left;
+    position: relative;
+    top:25px;
+    
+}
+
+.baris1{
+    width: 600px;
+}
+
+.baris1 h4{
+    margin-left: 85px;
+}
+
+.table2{
+    background-color: gray;
+}
+
+.tr1{
+    background-color: red;
+}
+
+.menu{
+    color: blue;
+    background-color: rgb(247, 209, 151);
+}
+
+.konten p{
+    margin-left: 55px;
+}
+
+.konten{
+    background-color: rgb(253, 253, 76);
+    padding-left: 87px;
+    
+}
+
+.thead{
+    background-color: aqua;
+    color: blue;
+}
+
